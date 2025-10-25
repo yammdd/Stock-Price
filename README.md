@@ -1,2 +1,5 @@
 # Stock-Price
-Assignment for Big Data course
+
+Ref: https://github.com/thviet79/Stock-Price/tree/master
+
+Chi tiết xem trong báo cáo: `Report.pdf`
